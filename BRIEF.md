@@ -20,6 +20,23 @@ this order:
 4. **Coming up**: 2–4 dated events in the next week (economic data, earnings,
    elections, launches, big games).
 
+## No repeats
+
+The reader reads every day, so the brief never repeats something already shown.
+The page keeps a hidden coverage log (`<!-- COVERED:START ... COVERED:END -->`)
+listing every item reported in the last 7 days with the latest facts given.
+
+- A logged story comes back only with a material new development (a decision,
+  result, vote, official action, ruling, resignation). It gets an **Update** tag
+  and 1–2 sentences on only what's new. Otherwise it's left out.
+- Slow news day means fewer stories, not old ones.
+- If the latest market close is already logged (weekends, holidays, Monday
+  morning), the Markets section becomes "No new session" with 1–3 bullets on
+  what's new (futures, overseas, crypto, oil, company news).
+- Viral items are never repeated unless they've taken a big new turn.
+- "Coming up" may carry items over, minus anything already past.
+- Each run adds its items to the log and drops lines older than 7 days.
+
 ## Research
 
 - Use WebSearch. Run the searches in parallel: today's top news, yesterday's
