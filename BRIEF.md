@@ -66,5 +66,22 @@ listing every item reported in the last 7 days with the latest facts given.
    `bullets`, `tag`, `src`). Update the dateline and footer date.
 3. Republish to that same URL (`url` set to the link above) so the link stays the same.
 4. Send a push notification with the headline and a one-line summary.
-5. If the repository is checked out, also save the brief as Markdown to
-   `briefs/YYYY-MM-DD.md` and commit and push it to the session's branch.
+5. Save a compact copy to GitHub: `briefs/YYYY/MM-DD.md` on `main` in
+   `mkearney/daily`. Target ~1.5 KB, hard cap 2 KB. Format:
+
+   ```
+   # YYYY-MM-DD Day · <headline>
+   ## News
+   - **<short title>**: <one line of key facts>. [Source](url)
+   ## Markets (<day of session>)
+   S&P <close> <day%> · Nasdaq <close> <day%> · Dow <close> <day%>
+   - <one line per notable move or driver>
+   ## Viral
+   - <item> (<platform>) · <item> (<platform>)
+   ## Next
+   - MM/DD <event> · MM/DD <event>
+   ```
+
+   One link per news item, none elsewhere unless key. No lede, no HTML, no
+   repeated background. On no-session days, the Markets section is one line.
+   Commit message: `Brief YYYY-MM-DD`.

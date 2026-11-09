@@ -8,7 +8,7 @@ A daily brief, built by a Claude Code scheduled task every morning.
   session each morning. The session searches the web, verifies stories, rewrites the
   page and sends a push notification.
 - **Page template:** [site/index.html](site/index.html)
-- **Archive:** [briefs/](briefs/)
+- **Archive:** [briefs/](briefs/), one compact Markdown file per day (`briefs/YYYY/MM-DD.md`, ~1.5 KB each), pushed to `main` by the daily run
 
 To change what's in the brief, edit BRIEF.md and ask Claude to update the scheduled
 task's prompt to match.
