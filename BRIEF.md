@@ -66,22 +66,17 @@ listing every item reported in the last 7 days with the latest facts given.
    `bullets`, `tag`, `src`). Update the dateline and footer date.
 3. Republish to that same URL (`url` set to the link above) so the link stays the same.
 4. Send a push notification with the headline and a one-line summary.
-5. Save a compact copy to GitHub: `briefs/YYYY/MM-DD.md` on `main` in
-   `mkearney/daily`. Target ~1.5 KB, hard cap 2 KB. Format:
+5. Save a Markdown copy to GitHub: `briefs/YYYY/MM-DD.md` on `main` in
+   `mkearney/daily`. Commit message: `Brief YYYY-MM-DD`. Match the layout of the
+   existing files in `briefs/`:
+   - `# Weekday, Month D, YYYY`, then the day's headline in bold.
+   - `## Top stories`, each story an `###` headline, 1–3 tight sentences, and a
+     `<br>[Source](url)` line. Updates get `(update)` in the headline.
+   - `## Markets · <session>` with a Markdown table (Index | Close | Day | Week),
+     2–3 bold-labeled bullets, and one `Sources:` line. No-session days: just
+     1–2 bullets.
+   - `## Going viral`: bold item, platform in parentheses, one line each.
+   - `## Coming up`: bold dates, short event names.
 
-   ```
-   # YYYY-MM-DD Day · <headline>
-   ## News
-   - **<short title>**: <one line of key facts>. [Source](url)
-   ## Markets (<day of session>)
-   S&P <close> <day%> · Nasdaq <close> <day%> · Dow <close> <day%>
-   - <one line per notable move or driver>
-   ## Viral
-   - <item> (<platform>) · <item> (<platform>)
-   ## Next
-   - MM/DD <event> · MM/DD <event>
-   ```
-
-   One link per news item, none elsewhere unless key. No lede, no HTML, no
-   repeated background. On no-session days, the Markets section is one line.
-   Commit message: `Brief YYYY-MM-DD`.
+   Write efficiently: short sentences, no filler, no repeated background, no
+   hedging beyond what accuracy needs. Typically about 2 KB; aim to stay under 3 KB.
