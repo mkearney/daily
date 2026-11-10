@@ -47,16 +47,22 @@ The scheduled task's prompt implements these rules. Change both together.
     items means fewer are shown.
 
 ## Accuracy
-16. Every top story is checked with a second search against a major outlet (AP,
+16. Start top-story research with `python3 scripts/headlines.py`. It pulls the last
+    24 hours from 12 major outlets' news feeds (NYT, Washington Post, NBC, CBS, Fox,
+    Politico, MarketWatch, BBC, Guardian, Al Jazeera) and ranks stories by how many
+    outlets cover them. Stories covered by 3 or more outlets are strong
+    candidates; a story covered by only 1 needs a good reason to lead. Use web
+    search to fill gaps and to find details and sources.
+17. Every top story is checked with a second search against a major outlet (AP,
     Reuters, BBC, NYT, WSJ, Bloomberg, CNBC, networks). Stories found only on
     aggregators or blogs are dropped or labeled unconfirmed.
-17. Event dates are checked, not article dates. Older events are left out, or
+18. Event dates are checked, not article dates. Older events are left out, or
     their date is stated if they're new to the reader.
-18. When sources disagree on numbers, the most precise primary source is used,
+19. When sources disagree on numbers, the most precise primary source is used,
     and preliminary figures are labeled.
 
 ## Writing
-19. Plain, neutral, short sentences. No opinion, hype or filler. Every sentence
+20. Plain, neutral, short sentences. No opinion, hype or filler. Every sentence
     carries a fact.
-20. Nice-looking Markdown that matches the layout of the existing files in
+21. Nice-looking Markdown that matches the layout of the existing files in
     `briefs/`. About 1.5–2 KB per day, under 3 KB.
