@@ -23,6 +23,12 @@ The scheduled task's prompt implements these rules. Change both together.
    Example: `S&P 500 **+0.3%** · Nasdaq **+1.1%** · Dow **−0.5%** · 10-yr 4.31% (+4 bp)`.
    Add one sentence on why only if an index moved 1% or more, or the 10-year moved
    10 bp or more. No tables, index levels, weekly figures or other assets.
+   - Numbers come from FRED via `python3 scripts/markets.py`, which also picks the
+     session and handles no-trading days. Use its output as is.
+   - At 8:23am FRED usually has the Dow and Nasdaq but not yet the S&P 500 or
+     10-year. The script marks those `MISSING:<series>`; fill only those from web
+     search, in the same format. If a value can't be found reliably, drop it.
+   - Remove the script's trailing `<!-- ... -->` note from the brief.
 10. **Going viral:** up to 4 viral items from TikTok, Instagram, X, YouTube or
     Reddit, each labeled with its platform.
 
@@ -36,7 +42,7 @@ The scheduled task's prompt implements these rules. Change both together.
 13. A slow news day means fewer stories (2 is fine), not old ones.
 14. Each trading session is reported once. If there has been no session since the
     last brief (Sundays, Mondays, days after holidays), Markets reads "No trading
-    since the last brief."
+    since the last brief." The script handles this.
 15. Viral items aren't repeated unless they take a big new turn. Fewer than 3 new
     items means fewer are shown.
 
