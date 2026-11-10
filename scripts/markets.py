@@ -15,6 +15,7 @@ import re
 import sys
 import urllib.request
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 SERIES = [("SP500", "S&P 500"), ("NASDAQCOM", "Nasdaq"), ("DJIA", "Dow")]
 YIELD = "DGS10"
@@ -34,9 +35,18 @@ def fetch(series_id):
 
 
 def last_reported(briefs_dir):
-    """Date of the most recent session named in a '## Markets · Ddd Mon D' heading."""
+    """Date of the most recent session named in a '## Markets · Ddd Mon D' heading.
+
+    Skips today's brief (US Eastern) so a same-day rerun doesn't count itself.
+    """
+    today = dt.datetime.now(ZoneInfo("America/New_York")).date()
     for path in sorted(Path(briefs_dir).glob("*/*.md"), reverse=True):
         year = int(path.parent.name)
+        try:
+            if dt.date(year, *map(int, path.stem.split("-"))) >= today:
+                continue
+        except ValueError:
+            continue
         m = re.search(r"^## Markets · \w{3} (\w{3}) (\d{1,2})\s*$", path.read_text(), re.M)
         if m:
             d = dt.datetime.strptime(f"{m[1]} {m[2]} {year}", "%b %d %Y").date()
