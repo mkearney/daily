@@ -1,34 +1,40 @@
-# Monday, November 9, 2026
+# Tuesday, November 10, 2026
 
-**Trump names Stephen Miller chief of staff.**
+**A Republican files articles to impeach Hegseth.**
 
 ## Top stories
 
-### Miller replaces Susie Wiles as chief of staff
-Miller, the deputy chief of staff, takes over today. Wiles moves to Trump's political operation. The change follows heavy Republican midterm losses.
-<br>[Al Jazeera](https://www.aljazeera.com/news/2026/11/6/trump-says-making-adviser-stephen-miller-white-house-chief-of-staff)
+### Massie moves to impeach Hegseth over Iran war
+Rep. Thomas Massie (R-Ky.) introduced eight articles of impeachment against Defense Secretary Pete Hegseth, citing the War Powers Resolution and civilian deaths. GOP leaders must schedule a vote within two legislative days. Republicans hold the House 218–214; Speaker Johnson opposes the effort.
+<br>[CBS News](https://www.cbsnews.com/news/pete-hegseth-impeachment-vote-house-thomas-massie/)
 
-### Midterms: Senate called for Democrats
-The AP called the Senate for Democrats; ABC and CNBC project the House too. Alaska and Mississippi Senate races remain uncalled.
-<br>[PBS NewsHour](https://www.pbs.org/newshour/politics/democrats-take-control-of-the-senate-after-winning-key-midterm-races)
+### US-brokered Russia-Ukraine talks open in Abu Dhabi
+The two-day talks are the first since February and focus on security guarantees. Jared Kushner and Steve Witkoff lead for the US; European officials attend.
+<br>[CBS News](https://www.cbsnews.com/news/us-russia-ukraine-war-talks-peace-abu-dhabi-deal/)
 
-### Eisenkot gets first shot at forming Israel's government
-President Herzog tasked Gadi Eisenkot, backed by parties with 67 seats versus 46 for Netanyahu. He has 28 days, plus a possible 14-day extension.
-<br>[NBC News](https://www.nbcnews.com/world/israel/israels-president-taps-gadi-eisenkot-rcna608033)
+### Supreme Court lets Big Bend border wall resume
+An 8–1 order lifts a lower-court block on construction in Texas's Big Bend region while the case continues.
+<br>[SCOTUSblog](https://www.scotusblog.com/2026/11/supreme-court-allows-trump-administration-to-continue-border-wall-construction/)
 
-### COP31 opens in Antalya
-The UN climate talks run Nov 9–20. Turkey hosts and Australia leads negotiations, a first-time split.
-<br>[UNRIC](https://unric.org/en/unfccc-cop31-the-road-to-antalya/)
+### Hungary detains Viktor Orbán's brother
+Áron Orbán is one of four people held in a probe into visas sold to more than 100 Vietnamese citizens, PM Péter Magyar said. Viktor Orbán calls it political revenge.
+<br>[Reuters via U.S. News](https://www.usnews.com/news/world/articles/2026-11-10/hungary-detains-viktor-orbans-brother-in-people-smuggling-probe-pm-says)
 
-## Markets
+### China's trade surplus passes $1 trillion
+It crossed the mark in ten months, its fastest ever. October exports rose 35.2% from a year earlier, led by AI hardware.
+<br>[CNBC](https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html)
 
-No trading since the last brief.
+## Markets · Mon Nov 9
+
+S&P 500 **+2.4%** · Nasdaq **+2.7%** · Dow **+2.2%** · 10-yr 4.86% (+2 bp)
+
+Falling oil on Iran peace hopes lifted all three indexes 2% or more; Nvidia fell 4.3% as its board probes CEO Jensen Huang's relationship with an alleged Chinese spy.
 
 ## Going viral
 
-- **"Remember November 2026 Is Coming"** (TikTok, Instagram): the AI polar bear meme resurfaces now that it's November.
-- **"The Great Meme Reset of 2026"** (TikTok): a push to bring back 2016-style memes. Dates unconfirmed.
-
+- **"Add to Cart"** (TikTok): holiday wishlists performed as a bit ahead of Black Friday.
+- **"Answer in One Word"** (TikTok): friends, family and ChatGPT put on the spot with one-word answers.
+- **"Why Would I Deceive You?"** (TikTok, Instagram): a deadpan meme format.
 
 ---
 <sub>Updated daily at 8:23am ET by a Claude Code scheduled task · [Archive](briefs/) · [Rules](BRIEF.md)</sub>
