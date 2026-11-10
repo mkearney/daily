@@ -3,7 +3,7 @@
 A daily brief, built by a Claude Code scheduled task every morning.
 
 - **Read it:** https://claude.ai/artifact/QYhgy3kWgyLZiEKsot1ZRU (the same link every day)
-- **What it covers:** top news, a market update, viral social media, and the week ahead
+- **What it covers:** top news, a market update, and viral social media
 - **How it works:** see [BRIEF.md](BRIEF.md). A scheduled task starts a fresh Claude
   session each morning. The session searches the web, verifies stories, rewrites the
   page and sends a push notification.
