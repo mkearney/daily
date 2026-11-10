@@ -1,14 +1,34 @@
-# Daily
+# Monday, November 9, 2026
 
-A daily brief, built by a Claude Code scheduled task every morning.
+**Trump names Stephen Miller chief of staff.**
 
-- **Read it:** https://claude.ai/artifact/QYhgy3kWgyLZiEKsot1ZRU (the same link every day)
-- **What it covers:** top news, a market update, and viral social media
-- **How it works:** see [BRIEF.md](BRIEF.md). A scheduled task starts a fresh Claude
-  session each morning. The session searches the web, verifies stories, rewrites the
-  page and sends a push notification.
-- **Page template:** [site/index.html](site/index.html)
-- **Archive:** [briefs/](briefs/), one Markdown file per day (`briefs/YYYY/MM-DD.md`, ~2 KB each), pushed to `main` by the daily run
+## Top stories
 
-To change what's in the brief, edit BRIEF.md and ask Claude to update the scheduled
-task's prompt to match.
+### Miller replaces Susie Wiles as chief of staff
+Miller, the deputy chief of staff, takes over today. Wiles moves to Trump's political operation. The change follows heavy Republican midterm losses.
+<br>[Al Jazeera](https://www.aljazeera.com/news/2026/11/6/trump-says-making-adviser-stephen-miller-white-house-chief-of-staff)
+
+### Midterms: Senate called for Democrats
+The AP called the Senate for Democrats; ABC and CNBC project the House too. Alaska and Mississippi Senate races remain uncalled.
+<br>[PBS NewsHour](https://www.pbs.org/newshour/politics/democrats-take-control-of-the-senate-after-winning-key-midterm-races)
+
+### Eisenkot gets first shot at forming Israel's government
+President Herzog tasked Gadi Eisenkot, backed by parties with 67 seats versus 46 for Netanyahu. He has 28 days, plus a possible 14-day extension.
+<br>[NBC News](https://www.nbcnews.com/world/israel/israels-president-taps-gadi-eisenkot-rcna608033)
+
+### COP31 opens in Antalya
+The UN climate talks run Nov 9–20. Turkey hosts and Australia leads negotiations, a first-time split.
+<br>[UNRIC](https://unric.org/en/unfccc-cop31-the-road-to-antalya/)
+
+## Markets
+
+No trading since the last brief.
+
+## Going viral
+
+- **"Remember November 2026 Is Coming"** (TikTok, Instagram): the AI polar bear meme resurfaces now that it's November.
+- **"The Great Meme Reset of 2026"** (TikTok): a push to bring back 2016-style memes. Dates unconfirmed.
+
+
+---
+<sub>Updated daily at 8:23am ET by a Claude Code scheduled task · [Archive](briefs/) · [Rules](BRIEF.md)</sub>

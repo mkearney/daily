@@ -3,33 +3,40 @@
 The scheduled task's prompt implements these rules. Change both together.
 
 ## Schedule and delivery
-1. Runs every day at 6:23am US Eastern, in a fresh Claude session.
-2. Publishes to one page that keeps the same link: https://claude.ai/artifact/QYhgy3kWgyLZiEKsot1ZRU
-3. Sends a push notification to the phone when done.
-4. Commits a Markdown copy to `main` in `mkearney/daily` at `briefs/YYYY/MM-DD.md`,
-   with the message `Brief YYYY-MM-DD`. Pushes directly, with no pull request.
+1. Runs every day at 8:23am US Eastern, in a fresh Claude session.
+2. Output goes to GitHub only, pushed directly to `main` in `mkearney/daily` with
+   no pull request. Commit message: `Brief YYYY-MM-DD`.
+3. Each run writes the same brief to two files:
+   - `briefs/YYYY/MM-DD.md`, the permanent archive.
+   - `README.md`, overwritten daily so the repo's front page always shows today.
+     It ends with a footer linking to the archive and this file.
+4. A phone notification is sent when the run finishes.
 
 ## Content
 5. Three sections, in this order: **Top stories**, **Markets**, **Going viral**.
 6. Readable in under 5 minutes on a phone.
-7. Starts with a headline about something new today and a one-sentence lede.
+7. Opens with a bold headline about something new today.
 8. **Top stories:** up to 5 major US and world events from the last 24 hours. Each
-   gets a headline, 2–4 sentences and source links.
-9. **Markets:** S&P 500, Nasdaq and Dow (close, day %, week % when relevant). Adds
-   the 10-year yield, oil, gold and bitcoin when reliable figures exist. Then 2–4
-   bullets on why markets moved and notable movers.
+   gets a `###` headline, 1–3 sentences and a source link.
+9. **Markets:** one line with the last session's % change for the S&P 500, Nasdaq
+   and Dow, plus the 10-year Treasury yield level and its change in basis points.
+   Example: `S&P 500 **+0.3%** · Nasdaq **+1.1%** · Dow **−0.5%** · 10-yr 4.31% (+4 bp)`.
+   Add one sentence on why only if an index moved 1% or more, or the 10-year moved
+   10 bp or more. No tables, index levels, weekly figures or other assets.
 10. **Going viral:** up to 4 viral items from TikTok, Instagram, X, YouTube or
     Reddit, each labeled with its platform.
 
 ## No repeats
-11. The page keeps a hidden log of every item reported in the last 7 days.
-12. A logged story returns only with a material new development (a decision,
-    result, vote, official action, ruling, resignation or casualty count). It's
-    tagged **Update** and says only what's new. Reaction and analysis don't count.
+11. Before researching, the run reads the last 7 days of `briefs/` to see what has
+    already been reported.
+12. A reported story returns only with a material new development (a decision,
+    result, vote, official action, ruling, resignation or casualty count). Its
+    headline ends with `(update)`, and it says only what's new. Reaction and
+    analysis don't count.
 13. A slow news day means fewer stories (2 is fine), not old ones.
-14. If the latest market close was already reported (weekends, holidays, Monday
-    morning), there's no table. Markets shows "No new session" with 1–3 bullets on
-    what's new (futures, overseas markets, crypto, oil, company news).
+14. Each trading session is reported once. If there has been no session since the
+    last brief (Sundays, Mondays, days after holidays), Markets reads "No trading
+    since the last brief."
 15. Viral items aren't repeated unless they take a big new turn. Fewer than 3 new
     items means fewer are shown.
 
@@ -45,11 +52,5 @@ The scheduled task's prompt implements these rules. Change both together.
 ## Writing
 19. Plain, neutral, short sentences. No opinion, hype or filler. Every sentence
     carries a fact.
-20. Each section ends with source links.
-
-## GitHub copy
-21. A nice-looking Markdown file with the same content as the page. It matches
-    the layout of the existing files in `briefs/`: a date title, the bold
-    headline, `###` per story with a source link, a markets table with bullets,
-    and viral bullets.
-22. Written efficiently: about 2 KB per day, and under 3 KB.
+20. Nice-looking Markdown that matches the layout of the existing files in
+    `briefs/`. About 1.5–2 KB per day, under 3 KB.
