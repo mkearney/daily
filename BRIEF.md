@@ -47,12 +47,13 @@ The scheduled task's prompt implements these rules. Change both together.
     items means fewer are shown.
 
 ## Accuracy
-16. Start top-story research with `python3 scripts/headlines.py`. It pulls the last
-    24 hours from 12 major outlets' news feeds (NYT, Washington Post, NBC, CBS, Fox,
-    Politico, MarketWatch, BBC, Guardian, Al Jazeera) and ranks stories by how many
-    outlets cover them. Stories covered by 3 or more outlets are strong
-    candidates; a story covered by only 1 needs a good reason to lead. Use web
-    search to fill gaps and to find details and sources.
+16. Start top-story research with `python3 scripts/headlines.py`. It pulls Google
+    News Top Stories plus its U.S., World, Business and Tech sections, in Google's
+    order, with the outlets covering each story. Higher in the list and more
+    outlets means a bigger story; a story from a single outlet needs a good reason
+    to lead. To check a story from recent briefs for real updates, run
+    `python3 scripts/headlines.py "<story keywords>"` (searches the past day). Use
+    web search to fill gaps and to find details and direct article links.
 17. Every top story is checked with a second search against a major outlet (AP,
     Reuters, BBC, NYT, WSJ, Bloomberg, CNBC, networks). Stories found only on
     aggregators or blogs are dropped or labeled unconfirmed.
