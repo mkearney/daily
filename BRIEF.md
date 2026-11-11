@@ -72,4 +72,4 @@ The scheduled task's prompt implements these rules. Change both together.
 20. Plain, neutral, short sentences. No opinion, hype or filler. Every sentence
     carries a fact.
 21. Nice-looking Markdown that matches the layout of the existing files in
-    `briefs/`. About 1.5–2 KB per day, under 3 KB.
+    `briefs/`. Aim for about 3 KB per day.
