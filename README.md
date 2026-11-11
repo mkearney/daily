@@ -1,40 +1,40 @@
-# Tuesday, November 10, 2026
+# Wednesday, November 11, 2026
 
-**A Republican files articles to impeach Hegseth.**
+**House shelves the Hegseth impeachment; Jordan will lead House Republicans.**
 
 ## Top stories
 
-### Massie moves to impeach Hegseth over Iran war
-Rep. Thomas Massie (R-Ky.) introduced eight articles of impeachment against Defense Secretary Pete Hegseth, citing the War Powers Resolution and civilian deaths. GOP leaders must schedule a vote within two legislative days. Republicans hold the House 218–214; Speaker Johnson opposes the effort.
-<br>[CBS News](https://www.cbsnews.com/news/pete-hegseth-impeachment-vote-house-thomas-massie/)
+### House blocks Hegseth impeachment (update)
+The House voted 211–204 to send Massie's articles to the Judiciary Committee, ending the effort in this Congress. Massie was the only Republican voting no.
+<br>[ABC News](https://abcnews.com/US/hegseth-dismisses-impeachment-effort-political-spectacle/story?id=138002466)
 
-### US-brokered Russia-Ukraine talks open in Abu Dhabi
-The two-day talks are the first since February and focus on security guarantees. Jared Kushner and Steve Witkoff lead for the US; European officials attend.
-<br>[CBS News](https://www.cbsnews.com/news/us-russia-ukraine-war-talks-peace-abu-dhabi-deal/)
+### Jim Jordan elected House Republican leader
+Jordan beat Steve Scalise 106–73 and will succeed Mike Johnson as minority leader in January. John Thune stays the Senate GOP leader.
+<br>[NPR](https://www.npr.org/2026/11/10/nx-s1-6030988/gop-leadership-election-steve-scalise-jim-jordan)
 
-### Supreme Court lets Big Bend border wall resume
-An 8–1 order lifts a lower-court block on construction in Texas's Big Bend region while the case continues.
-<br>[SCOTUSblog](https://www.scotusblog.com/2026/11/supreme-court-allows-trump-administration-to-continue-border-wall-construction/)
+### Ukraine talks end with prisoner swap deal (update)
+The Abu Dhabi talks ended without a ceasefire deal, but Russia and Ukraine agreed to a large prisoner exchange; Zelensky said 1,000 to 1,500 a side. Witkoff and Kushner meet Putin in Moscow on Thursday.
+<br>[AP via Inquirer](https://www.inquirer.com/news/nation-world/russia-ukraine-talks-prisoner-exchange-20261111.html)
 
-### Hungary detains Viktor Orbán's brother
-Áron Orbán is one of four people held in a probe into visas sold to more than 100 Vietnamese citizens, PM Péter Magyar said. Viktor Orbán calls it political revenge.
-<br>[Reuters via U.S. News](https://www.usnews.com/news/world/articles/2026-11-10/hungary-detains-viktor-orbans-brother-in-people-smuggling-probe-pm-says)
+### US charges 3 in Iran-linked attack plots
+Federal prosecutors in New York say the men plotted nearly 20 attacks in Europe and the US, including on RAF Fairford, a UK base hosting US jets, for Iran's Revolutionary Guard and Kata'ib Hezbollah. Iran denies a role.
+<br>[NBC News](https://www.nbcnews.com/world/united-kingdom/us-charges-3-men-plotting-multiple-terrorist-attacks-planned-attack-uk-rcna608647)
 
-### China's trade surplus passes $1 trillion
-It crossed the mark in ten months, its fastest ever. October exports rose 35.2% from a year earlier, led by AI hardware.
-<br>[CNBC](https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html)
+### Spain holds first general strike in 14 years
+Unions CCOO and UGT called the 24-hour strike over housing costs, disrupting transport. A general election is set for Nov 29.
+<br>[NPR](https://www.npr.org/2026/11/11/nx-s1-6037314/spain-general-strike)
 
-## Markets · Mon Nov 9
+## Markets · Tue Nov 10
 
-S&P 500 **+2.4%** · Nasdaq **+2.7%** · Dow **+2.2%** · 10-yr 4.86% (+2 bp)
+S&P 500 **−0.4%** · Nasdaq **−0.7%** · Dow **−0.3%** · 10-yr 4.98% (+10 bp)
 
-Falling oil on Iran peace hopes lifted all three indexes 2% or more; Nvidia fell 4.3% as its board probes CEO Jensen Huang's relationship with an alleged Chinese spy.
+Hotter-than-expected October inflation data raised bets on a Fed rate hike in December.
 
 ## Going viral
 
-- **"Add to Cart"** (TikTok): holiday wishlists performed as a bit ahead of Black Friday.
-- **"Answer in One Word"** (TikTok): friends, family and ChatGPT put on the spot with one-word answers.
-- **"Why Would I Deceive You?"** (TikTok, Instagram): a deadpan meme format.
+- **Jensen Huang memes** (X): jokes and AI videos about the Nvidia CEO's alleged honeypot affair.
+- **"Then and now" photos** (TikTok): baby photos paired with adult recreations, in carousels topping 8.8M views.
+- **Half-drawn horse** (Instagram): a horse drawn well on one side and badly on the other, labeled with a strength and a weakness.
 
 ---
 <sub>Updated daily at 8:23am ET by a Claude Code scheduled task · [Archive](briefs/) · [Rules](BRIEF.md)</sub>
