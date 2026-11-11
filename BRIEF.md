@@ -32,10 +32,9 @@ The scheduled task's prompt implements these rules. Change both together.
 10. **Going viral:** up to 4 viral items from TikTok, Instagram, X, YouTube or
     Reddit, each labeled with its platform.
     - Start with `python3 scripts/viral.py`. It lists today's top Reddit posts
-      (public RSS) and YouTube's US most-popular chart (free API key), plus
-      Bluesky, Google Trends and Wikipedia signals for context.
+      (public RSS), plus Bluesky, Google Trends and Wikipedia signals for context.
     - Aim for a mix of platforms; no more than 2 items from any one platform.
-      Use web search for TikTok, Instagram and X, which have no free feed.
+      Use web search for TikTok, Instagram, X and YouTube, which have no free feed.
     - Skip news clips and political posts already covered in Top stories, and
       anything sexual, gory or cruel.
 

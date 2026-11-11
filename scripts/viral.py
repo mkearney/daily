@@ -8,9 +8,6 @@ Sources, all free:
   Reddit     top posts of the day from a few big subreddits (public RSS, no key).
              Reddit's .json endpoints are blocked from cloud servers; RSS is not,
              but it rate-limits fast, so feeds are fetched slowly, one at a time.
-  YouTube    the US "most popular" chart (YouTube Data API, free key). The key is
-             injected by the session's network proxy as the X-Goog-Api-Key header;
-             without one this section says so and the rest still runs.
   Signals    Bluesky trending topics, Google Trends daily searches and the most-read
              Wikipedia pages. These show what people are talking about, to help
              spot and confirm viral items; they are not items themselves.
@@ -29,8 +26,6 @@ UA = "Mozilla/5.0 (compatible; daily-brief/0.1)"
 SUBREDDITS = ["popular", "videos", "nextfuckinglevel", "memes", "TikTokCringe"]
 REDDIT_PER_SUB = 8
 REDDIT_GAP = 6  # seconds between Reddit requests, to stay under its rate limit
-YOUTUBE = ("https://www.googleapis.com/youtube/v3/videos?part=snippet,statistics"
-           "&chart=mostPopular&regionCode=US&maxResults=15")
 BLUESKY = "https://public.api.bsky.app/xrpc/app.bsky.unspecced.getTrendingTopics"
 TRENDS = "https://trends.google.com/trending/rss?geo=US"
 WIKI = "https://wikimedia.org/api/rest_v1/metrics/pageviews/top/en.wikipedia/all-access/{}"
@@ -89,27 +84,6 @@ def reddit():
             print(f"[r/{sub}] {tag(entry, 'title')}\n    {where} · {when}\n    {link}\n")
 
 
-def youtube():
-    print("## YouTube (US most popular)\n")
-    try:
-        # The proxy swaps this placeholder for the real key, if one is saved.
-        data = json.loads(get(YOUTUBE, {"X-Goog-Api-Key": "placeholder"}, tries=1))
-    except urllib.error.HTTPError as e:
-        if e.code in (400, 401, 403):
-            print("No YouTube API key configured (or it was rejected); skipped.\n")
-        else:
-            print(f"failed: {e}\n")
-        return
-    except Exception as e:
-        print(f"failed: {e}\n")
-        return
-    for v in data.get("items", []):
-        s, st = v["snippet"], v.get("statistics", {})
-        views = int(st.get("viewCount", 0))
-        when = age(dt.datetime.fromisoformat(s["publishedAt"].replace("Z", "+00:00")))
-        print(f"{s['title']}\n    {s['channelTitle']} · {views:,} views · {when}\n"
-              f"    https://www.youtube.com/watch?v={v['id']}\n")
-
 
 def signals():
     print("## Signals (context only, not items)\n")
@@ -137,7 +111,6 @@ def signals():
 
 def main():
     print("# Viral candidates\n")
-    youtube()
     signals()
     print()
     reddit()
