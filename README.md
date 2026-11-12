@@ -1,41 +1,40 @@
-# Wednesday, November 11, 2026
+# Thursday, November 12, 2026
 
-**House shelves the Hegseth impeachment; Jordan will lead House Republicans.**
+**Brooklyn building collapse kills 8; Democrat Scott Colom wins Mississippi.**
 
 ## Top stories
 
-### House blocks Hegseth impeachment (update)
-The House voted 211–204 to send Massie's articles to the Judiciary Committee, ending the effort in this Congress. Massie was the only Republican voting no.
-<br>[ABC News](https://abcnews.com/US/hegseth-dismisses-impeachment-effort-political-spectacle/story?id=138002466)
+### Brooklyn building collapse kills 8
+A three-story building on Flatbush Avenue collapsed Wednesday afternoon into a construction site next door. At least 17 people were hurt, two critically, and crews are still searching the rubble. The cause is under investigation.
+<br>[ABC7 New York](https://abc7ny.com/post/flatbush-partial-building-collapse-brooklyn-reported-people-trapped/20033903/)
 
-### Jim Jordan elected House Republican leader
-Jordan beat Steve Scalise 106–73 and will succeed Mike Johnson as minority leader in January. John Thune stays the Senate GOP leader.
-<br>[NPR](https://www.npr.org/2026/11/10/nx-s1-6030988/gop-leadership-election-steve-scalise-jim-jordan)
+### Colom wins Mississippi Senate seat (update)
+The AP called the race for Democrat Scott Colom, about 49.2% to 48.7%, on uncertified results. Sen. Cindy Hyde-Smith conceded. Colom will be the state's first Black senator since Reconstruction.
+<br>[CBS News](https://www.cbsnews.com/news/mississippi-2026-senate-scott-colom-cindy-hyde-smith/)
 
-### Ukraine talks end with prisoner swap deal (update)
-The Abu Dhabi talks ended without a ceasefire deal, but Russia and Ukraine agreed to a large prisoner exchange; Zelensky said 1,000 to 1,500 a side. Witkoff and Kushner meet Putin in Moscow on Thursday.
-<br>[AP via Inquirer](https://www.inquirer.com/news/nation-world/russia-ukraine-talks-prisoner-exchange-20261111.html)
+### Nvidia board reportedly moves to oust Jensen Huang
+The WSJ and CBS report the board is preparing to remove the CEO after a New York Times report of a second affair, with a subordinate. No decision has been announced. Shares fell after hours.
+<br>[CBS News](https://www.cbsnews.com/news/nvidia-board-ceo-jensen-huang-china/)
 
-### US charges 3 in Iran-linked attack plots
-Federal prosecutors in New York say the men plotted nearly 20 attacks in Europe and the US, including on RAF Fairford, a UK base hosting US jets, for Iran's Revolutionary Guard and Kata'ib Hezbollah. Iran denies a role.
-<br>[NBC News](https://www.nbcnews.com/world/united-kingdom/us-charges-3-men-plotting-multiple-terrorist-attacks-planned-attack-uk-rcna608647)
+### ICE deportations hit a record
+DHS data show 483,200 removals in fiscal 2026, above the previous record of 442,640 in 2025. ICE made more than 491,000 arrests, nearly all for civil immigration violations.
+<br>[CBS News](https://www.cbsnews.com/news/ice-deportations-arrests-hit-record-high/)
 
-### Spain holds first general strike in 14 years
-Unions CCOO and UGT called the 24-hour strike over housing costs, disrupting transport. A general election is set for Nov 29.
-<br>[NPR](https://www.npr.org/2026/11/11/nx-s1-6037314/spain-general-strike)
+### Israeli strike on Gaza's Nasser Hospital kills 6
+Gaza's Health Ministry says a surgeon and a 13-year-old boy were among the dead. Israel says it targeted a Hamas commander.
+<br>[NBC News](https://www.nbcnews.com/world/middle-east/israeli-strike-gaza-nasser-hospital-abu-shaira-doctor-hamas-rcna608932)
 
-## Markets · Tue Nov 10
+## Markets · Wed Nov 11
 
-S&P 500 **−0.4%** · Nasdaq **−0.7%** · Dow **−0.3%** · 10-yr 4.98% (+10 bp)
+S&P 500 **+1.3%** · Nasdaq **+1.6%** · Dow **+0.5%** · 10-yr closed (Veterans Day)
 
-Hotter-than-expected October inflation data raised bets on a Fed rate hike in December.
+Chip stocks rallied after CoreWeave beat forecasts and raised its outlook.
 
 ## Going viral
 
-- **Jensen Huang memes** (X): jokes and AI videos about the Nvidia CEO's alleged honeypot affair.
-- **"Then and now" photos** (TikTok): baby photos paired with adult recreations, in carousels topping 8.8M views.
-- **[An ancient Greek aulos, rebuilt and played](https://www.reddit.com/r/nextfuckinglevel/comments/1xsxycz/a_man_playing_the_aulos_an_ancient_greek_double/)** (Reddit): the double-reed pipe, played with circular breathing.
-- **[A 3D forest wallpaper](https://www.reddit.com/r/nextfuckinglevel/comments/1xt470r/i_made_a_3d_forest_wallpaper_that_lets_me_peek/)** (Reddit): head tracking lets the maker peek behind the trees.
+- **[Tomb sentinel scolds Hegseth's group](https://www.reddit.com/r/PublicFreakout/comments/1xtt14v/tomb_of_the_unknown_soldier_sentinel_yells_at/)** (Reddit): an Arlington guard orders silence after laughter during a Veterans Day photo. The Pentagon says he acted correctly.
+- **[A 9-month light-painting film](https://www.reddit.com/r/nextfuckinglevel/comments/1xtwwx6/i_spent_9_months_light_painting_this_short_film/)** (Reddit): a short film drawn frame by frame with light.
+- **"Bicep Heart"** (TikTok, Instagram): flexing an arm to frame a heart shape; the first video passed 5.3M views in a week.
 
 ---
 <sub>Updated daily at 8:23am ET by a Claude Code scheduled task · [Archive](briefs/) · [Rules](BRIEF.md)</sub>
