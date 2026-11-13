@@ -12,6 +12,10 @@ Jensen Huang resigned as CEO, president and board member, effective immediately,
 Outlook, Teams, OneDrive, Copilot and other services went down across several regions Thursday. Microsoft blamed overloaded servers and reported recovery progress Friday morning; some services remain degraded.
 <br>[ABC7 News](https://abc7news.com/live-updates/microsoft-outage-live-updates-what-know-outlook-365-other-apps-remain-down/20036817/)
 
+### Criminal inquiry into Brooklyn collapse (update)
+The Brooklyn DA opened a criminal investigation into the Flatbush collapse that killed 8, including two children. The city issued a stop-work order at the excavation site next door.
+<br>[CBS New York](https://www.cbsnews.com/newyork/news/building-collapse-nyc-brooklyn-flatbush-rescue-operation/)
+
 ### Van Hollen challenges Schumer
 Sen. Chris Van Hollen (D-Md.) will run against Chuck Schumer for Senate Democratic leader in a secret ballot in December. Schumer says he has the votes.
 <br>[CBS News](https://www.cbsnews.com/news/chris-van-hollen-challenge-chuck-schumer-senate-majority-leader-democrat/)
@@ -28,6 +32,7 @@ The 10-year passed 5.1% as traders priced in more Fed rate hikes after Tuesday's
 
 ## Going viral
 
+- **[Hegseth gives the Tomb guard a medal](https://www.cbsnews.com/news/hegseth-medal-reprimand-tomb-of-the-unknown-soldier/)** (X): a day after Spc. Thomas Iglesias scolded his group, Hegseth posted a photo of the award: "Well done, Specialist."
 - **[A snow leopard meets a tiger](https://www.reddit.com/r/interestingasfuck/comments/1xugy7n/a_snow_leopard_gets_nervous_after_seeing_a_tiger/)** (Reddit): the leopard's nervous first reaction.
 - **[A wall that seems to move](https://www.reddit.com/r/nextfuckinglevel/comments/1xv1w7f/brazilian_street_artist_luis_g_martins/)** (Reddit): Brazilian street artist Luis G. Martins paints an optical illusion.
 
