@@ -1,40 +1,35 @@
-# Thursday, November 12, 2026
+# Friday, November 13, 2026
 
-**Brooklyn building collapse kills 8; Democrat Scott Colom wins Mississippi.**
+**Jensen Huang resigns as Nvidia CEO.**
 
 ## Top stories
 
-### Brooklyn building collapse kills 8
-A three-story building on Flatbush Avenue collapsed Wednesday afternoon into a construction site next door. At least 17 people were hurt, two critically, and crews are still searching the rubble. The cause is under investigation.
-<br>[ABC7 New York](https://abc7ny.com/post/flatbush-partial-building-collapse-brooklyn-reported-people-trapped/20033903/)
+### Huang out at Nvidia (update)
+Jensen Huang resigned as CEO, president and board member, effective immediately, after 33 years. CFO Colette Kress is interim CEO while the board weighs internal and outside candidates. Nvidia gave no reason.
+<br>[CNN](https://www.cnn.com/2026/11/12/tech/jensen-huang-nvidia-resigns)
 
-### Colom wins Mississippi Senate seat (update)
-The AP called the race for Democrat Scott Colom, about 49.2% to 48.7%, on uncertified results. Sen. Cindy Hyde-Smith conceded. Colom will be the state's first Black senator since Reconstruction.
-<br>[CBS News](https://www.cbsnews.com/news/mississippi-2026-senate-scott-colom-cindy-hyde-smith/)
+### Microsoft 365 outage hits businesses worldwide
+Outlook, Teams, OneDrive, Copilot and other services went down across several regions Thursday. Microsoft blamed overloaded servers and reported recovery progress Friday morning; some services remain degraded.
+<br>[ABC7 News](https://abc7news.com/live-updates/microsoft-outage-live-updates-what-know-outlook-365-other-apps-remain-down/20036817/)
 
-### Nvidia board reportedly moves to oust Jensen Huang
-The WSJ and CBS report the board is preparing to remove the CEO after a New York Times report of a second affair, with a subordinate. No decision has been announced. Shares fell after hours.
-<br>[CBS News](https://www.cbsnews.com/news/nvidia-board-ceo-jensen-huang-china/)
+### Van Hollen challenges Schumer
+Sen. Chris Van Hollen (D-Md.) will run against Chuck Schumer for Senate Democratic leader in a secret ballot in December. Schumer says he has the votes.
+<br>[CBS News](https://www.cbsnews.com/news/chris-van-hollen-challenge-chuck-schumer-senate-majority-leader-democrat/)
 
-### ICE deportations hit a record
-DHS data show 483,200 removals in fiscal 2026, above the previous record of 442,640 in 2025. ICE made more than 491,000 arrests, nearly all for civil immigration violations.
-<br>[CBS News](https://www.cbsnews.com/news/ice-deportations-arrests-hit-record-high/)
+### Putin meets US envoys; no breakthrough (update)
+Putin rejected foreign peacekeepers in Ukraine during talks with Witkoff and Kushner in Moscow. Kushner said Europe will join the next round; a Kremlin aide played that down.
+<br>[Time](https://time.com/article/2026/11/12/ukraine-russia-peace-deal-talks-putin-zelensky-witkoff-kushner/)
 
-### Israeli strike on Gaza's Nasser Hospital kills 6
-Gaza's Health Ministry says a surgeon and a 13-year-old boy were among the dead. Israel says it targeted a Hamas commander.
-<br>[NBC News](https://www.nbcnews.com/world/middle-east/israeli-strike-gaza-nasser-hospital-abu-shaira-doctor-hamas-rcna608932)
+## Markets · Thu Nov 12
 
-## Markets · Wed Nov 11
+S&P 500 **−0.4%** · Nasdaq **−0.4%** · Dow **−0.4%** · 10-yr 5.10% (+12 bp)
 
-S&P 500 **+1.3%** · Nasdaq **+1.6%** · Dow **+0.5%** · 10-yr closed (Veterans Day)
-
-Chip stocks rallied after CoreWeave beat forecasts and raised its outlook.
+The 10-year passed 5.1% as traders priced in more Fed rate hikes after Tuesday's hot inflation data; Nvidia fell about 4% on Huang's exit.
 
 ## Going viral
 
-- **[Tomb sentinel scolds Hegseth's group](https://www.reddit.com/r/PublicFreakout/comments/1xtt14v/tomb_of_the_unknown_soldier_sentinel_yells_at/)** (Reddit): an Arlington guard orders silence after laughter during a Veterans Day photo. The Pentagon says he acted correctly.
-- **[A 9-month light-painting film](https://www.reddit.com/r/nextfuckinglevel/comments/1xtwwx6/i_spent_9_months_light_painting_this_short_film/)** (Reddit): a short film drawn frame by frame with light.
-- **"Bicep Heart"** (TikTok, Instagram): flexing an arm to frame a heart shape; the first video passed 5.3M views in a week.
+- **[A snow leopard meets a tiger](https://www.reddit.com/r/interestingasfuck/comments/1xugy7n/a_snow_leopard_gets_nervous_after_seeing_a_tiger/)** (Reddit): the leopard's nervous first reaction.
+- **[A wall that seems to move](https://www.reddit.com/r/nextfuckinglevel/comments/1xv1w7f/brazilian_street_artist_luis_g_martins/)** (Reddit): Brazilian street artist Luis G. Martins paints an optical illusion.
 
 ---
 <sub>Updated daily at 8:23am ET by a Claude Code scheduled task · [Archive](briefs/) · [Rules](BRIEF.md)</sub>
