@@ -1,40 +1,38 @@
-# Friday, November 13, 2026
+# Saturday, November 14, 2026
 
-**Jensen Huang resigns as Nvidia CEO.**
+**FAA ground stop strands the country; Trump, Xi and Putin to meet next week.**
 
 ## Top stories
 
-### Huang out at Nvidia (update)
-Jensen Huang resigned as CEO, president and board member, effective immediately, after 33 years. CFO Colette Kress is interim CEO while the board weighs internal and outside candidates. Nvidia gave no reason.
-<br>[CNN](https://www.cnn.com/2026/11/12/tech/jensen-huang-nvidia-resigns)
+### Nationwide ground stop cancels 7,000+ flights
+The FAA halted all US departures for about four hours Friday after communication problems at several air traffic control centers. Flights resumed after 8:15 p.m. ET. Transportation Secretary Sean Duffy blamed overloaded routers and asked Congress for $50 billion in emergency funding.
+<br>[NBC News](https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247)
 
-### Microsoft 365 outage hits businesses worldwide
-Outlook, Teams, OneDrive, Copilot and other services went down across several regions Thursday. Microsoft blamed overloaded servers and reported recovery progress Friday morning; some services remain degraded.
-<br>[ABC7 News](https://abc7news.com/live-updates/microsoft-outage-live-updates-what-know-outlook-365-other-apps-remain-down/20036817/)
+### Trump, Xi and Putin plan first three-way meeting
+The White House says the leaders will meet Nov 19 at the APEC summit in Shenzhen, China, to discuss the Iran war and nuclear arms. No separate Trump-Putin meeting is planned.
+<br>[AP via U.S. News](https://www.usnews.com/news/politics/articles/2026-11-13/trump-xi-and-putin-plan-an-unprecedented-joint-meeting-on-the-sidelines-of-apec-officials-say)
 
-### Criminal inquiry into Brooklyn collapse (update)
-The Brooklyn DA opened a criminal investigation into the Flatbush collapse that killed 8, including two children. The city issued a stop-work order at the excavation site next door.
-<br>[CBS New York](https://www.cbsnews.com/newyork/news/building-collapse-nyc-brooklyn-flatbush-rescue-operation/)
+### US floats NATO for Donbas (update)
+Zelensky says US negotiators asked, for the first time, whether Ukraine would leave Donbas in exchange for NATO membership. He said any such deal would go to a national referendum.
+<br>[CNBC](https://www.cnbc.com/2026/11/14/zelenskyy-us-ukraine-donbas-nato-membership.html)
 
-### Van Hollen challenges Schumer
-Sen. Chris Van Hollen (D-Md.) will run against Chuck Schumer for Senate Democratic leader in a secret ballot in December. Schumer says he has the votes.
-<br>[CBS News](https://www.cbsnews.com/news/chris-van-hollen-challenge-chuck-schumer-senate-majority-leader-democrat/)
+### Tanker sinks river cruise ship in New Orleans
+A tanker that lost control hit the docked American Heritage on the Mississippi River, which capsized as passengers got off. All are accounted for; 32 were hospitalized, none critically.
+<br>[CBS News](https://www.cbsnews.com/news/tanker-cruise-collision-mississippi-river-new-orleans/)
 
-### Putin meets US envoys; no breakthrough (update)
-Putin rejected foreign peacekeepers in Ukraine during talks with Witkoff and Kushner in Moscow. Kushner said Europe will join the next round; a Kremlin aide played that down.
-<br>[Time](https://time.com/article/2026/11/12/ukraine-russia-peace-deal-talks-putin-zelensky-witkoff-kushner/)
+### Midterm calls: Alaska governor, Boebert (update)
+The AP called Alaska's governor race for Democrat Jonathan Kreiss-Tomkins. CNN projects Rep. Lauren Boebert lost to Democrat Eileen Laubacher. Mary Peltola leads Alaska's Senate race 49.8% to 46.1%, still uncalled.
+<br>[Alaska Public Media](https://alaskapublic.org/news/politics/elections/2026-11-13/peltola-leads-in-u-s-senate-race-nearing-50-mark-with-almost-all-ballots-counted)
 
-## Markets · Thu Nov 12
+## Markets · Fri Nov 13
 
-S&P 500 **−0.4%** · Nasdaq **−0.4%** · Dow **−0.4%** · 10-yr 5.10% (+12 bp)
-
-The 10-year passed 5.1% as traders priced in more Fed rate hikes after Tuesday's hot inflation data; Nvidia fell about 4% on Huang's exit.
+S&P 500 **−0.4%** · Nasdaq **−0.9%** · Dow **+0.1%** · 10-yr 5.15% (+5 bp)
 
 ## Going viral
 
-- **[Hegseth gives the Tomb guard a medal](https://www.cbsnews.com/news/hegseth-medal-reprimand-tomb-of-the-unknown-soldier/)** (X): a day after Spc. Thomas Iglesias scolded his group, Hegseth posted a photo of the award: "Well done, Specialist."
-- **[A snow leopard meets a tiger](https://www.reddit.com/r/interestingasfuck/comments/1xugy7n/a_snow_leopard_gets_nervous_after_seeing_a_tiger/)** (Reddit): the leopard's nervous first reaction.
-- **[A wall that seems to move](https://www.reddit.com/r/nextfuckinglevel/comments/1xv1w7f/brazilian_street_artist_luis_g_martins/)** (Reddit): Brazilian street artist Luis G. Martins paints an optical illusion.
+- **[A sunset door](https://www.reddit.com/r/woodworking/comments/1xvl6fs/a_door_i_made_thats_meant_to_look_like_the_sun/)** (Reddit): a woodworker's door made to look like the sun setting over the ocean.
+- **[Grub the Cat's Grubmobile](https://www.reddit.com/r/nextfuckinglevel/comments/1xv9mqw/grub_the_cat_and_his_grubmobile_v14/)** (Reddit): version 1.4 of a cat's custom ride.
+- **"Brainstacking"** (TikTok, Instagram): swapping doomscrolling for a set routine of reading, puzzles or journaling.
 
 ---
 <sub>Updated daily at 8:23am ET by a Claude Code scheduled task · [Archive](briefs/) · [Rules](BRIEF.md)</sub>
