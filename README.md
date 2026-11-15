@@ -1,38 +1,30 @@
-# Saturday, November 14, 2026
+# Sunday, November 15, 2026
 
-**FAA ground stop strands the country; Trump, Xi and Putin to meet next week.**
+**Iran fires drones at a US radar site in Bahrain; SpaceX catches Starship.**
 
 ## Top stories
 
-### Nationwide ground stop cancels 7,000+ flights
-The FAA halted all US departures for about four hours Friday after communication problems at several air traffic control centers. Flights resumed after 8:15 p.m. ET. Transportation Secretary Sean Duffy blamed overloaded routers and asked Congress for $50 billion in emergency funding.
-<br>[NBC News](https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247)
+### Iran targets US radar in Bahrain
+Iran's Revolutionary Guard says it sent six drones at a US radar at Bahrain's Al-Riffa base, calling it retaliation for "hostile U.S. actions." Bahrain says it shot down two drones with no damage.
+<br>[CBS News](https://www.cbsnews.com/live-updates/us-iran-war-trump-nuclear-material-no-deal/)
 
-### Trump, Xi and Putin plan first three-way meeting
-The White House says the leaders will meet Nov 19 at the APEC summit in Shenzhen, China, to discuss the Iran war and nuclear arms. No separate Trump-Putin meeting is planned.
-<br>[AP via U.S. News](https://www.usnews.com/news/politics/articles/2026-11-13/trump-xi-and-putin-plan-an-unprecedented-joint-meeting-on-the-sidelines-of-apec-officials-say)
+### SpaceX catches a Starship upper stage for the first time
+After about 14 orbits and a Starlink deployment, Ship 42 returned to Starbase, Texas, and was caught by the launch tower's arms. The booster missed its catch and was lost in the Gulf of Mexico.
+<br>[CNBC](https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html)
 
-### US floats NATO for Donbas (update)
-Zelensky says US negotiators asked, for the first time, whether Ukraine would leave Donbas in exchange for NATO membership. He said any such deal would go to a national referendum.
-<br>[CNBC](https://www.cnbc.com/2026/11/14/zelenskyy-us-ukraine-donbas-nato-membership.html)
+### Planes collide while taxiing at Miami airport
+A Copa Airlines 737's wingtip struck the nose of a UPS 767 cargo jet Saturday night, a day after the nationwide ground stop. Two people had minor injuries. The FAA is investigating.
+<br>[CNN](https://www.cnn.com/2026/11/14/us/miami-airport-planes-collide-ups-copa-hnk)
 
-### Tanker sinks river cruise ship in New Orleans
-A tanker that lost control hit the docked American Heritage on the Mississippi River, which capsized as passengers got off. All are accounted for; 32 were hospitalized, none critically.
-<br>[CBS News](https://www.cbsnews.com/news/tanker-cruise-collision-mississippi-river-new-orleans/)
+## Markets
 
-### Midterm calls: Alaska governor, Boebert (update)
-The AP called Alaska's governor race for Democrat Jonathan Kreiss-Tomkins. CNN projects Rep. Lauren Boebert lost to Democrat Eileen Laubacher. Mary Peltola leads Alaska's Senate race 49.8% to 46.1%, still uncalled.
-<br>[Alaska Public Media](https://alaskapublic.org/news/politics/elections/2026-11-13/peltola-leads-in-u-s-senate-race-nearing-50-mark-with-almost-all-ballots-counted)
-
-## Markets · Fri Nov 13
-
-S&P 500 **−0.4%** · Nasdaq **−0.9%** · Dow **+0.1%** · 10-yr 5.15% (+5 bp)
+No trading since the last brief.
 
 ## Going viral
 
-- **[A sunset door](https://www.reddit.com/r/woodworking/comments/1xvl6fs/a_door_i_made_thats_meant_to_look_like_the_sun/)** (Reddit): a woodworker's door made to look like the sun setting over the ocean.
-- **[Grub the Cat's Grubmobile](https://www.reddit.com/r/nextfuckinglevel/comments/1xv9mqw/grub_the_cat_and_his_grubmobile_v14/)** (Reddit): version 1.4 of a cat's custom ride.
-- **"Brainstacking"** (TikTok, Instagram): swapping doomscrolling for a set routine of reading, puzzles or journaling.
+- **[John Oliver on Sean Duffy](https://www.reddit.com/r/videos/comments/1xwax4f/sean_duffy_last_week_tonight_with_john_oliver_hbo/)** (YouTube): a Last Week Tonight segment on the transportation secretary, after the ground stop.
+- **[A surprise first car](https://www.reddit.com/r/MadeMeSmile/comments/1xwfoaj/her_grandparents_told_her_to_come_downstairs_for/)** (Reddit): grandparents call a teen downstairs to her first car.
+- **[The curtain dog](https://www.reddit.com/r/WhatsWrongWithYourDog/comments/1xwj687/my_dog_gets_into_this_position_every_single_night/)** (Reddit): a dog that sleeps with a curtain over his head every night.
 
 ---
 <sub>Updated daily at 8:23am ET by a Claude Code scheduled task · [Archive](briefs/) · [Rules](BRIEF.md)</sub>
