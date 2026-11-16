@@ -1,20 +1,20 @@
-# Sunday, November 15, 2026
+# Monday, November 16, 2026
 
-**Iran fires drones at a US radar site in Bahrain; SpaceX catches Starship.**
+**Ukraine launches its largest drone attack on Russia of the war.**
 
 ## Top stories
 
-### Iran targets US radar in Bahrain
-Iran's Revolutionary Guard says it sent six drones at a US radar at Bahrain's Al-Riffa base, calling it retaliation for "hostile U.S. actions." Bahrain says it shot down two drones with no damage.
-<br>[CBS News](https://www.cbsnews.com/live-updates/us-iran-war-trump-nuclear-material-no-deal/)
+### Ukraine's biggest drone strike on Russia
+Russia says it downed 1,336 Ukrainian drones overnight across 16 regions, above the record of 1,254 set Oct 29. Crimea's Russian-installed governor said the Kerch bridge was hit; road traffic was paused for repairs.
+<br>[NBC News](https://www.nbcnews.com/world/ukraine/ukraine-launches-biggest-drone-attack-russia-war-began-rcna609555)
 
-### SpaceX catches a Starship upper stage for the first time
-After about 14 orbits and a Starlink deployment, Ship 42 returned to Starbase, Texas, and was caught by the launch tower's arms. The booster missed its catch and was lost in the Gulf of Mexico.
-<br>[CNBC](https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html)
+### Mamdani disbands NYPD protest unit
+Mayor Zohran Mamdani and Commissioner Jessica Tisch are breaking up the Strategic Response Group. Its counterterrorism role moves to the NYPD's intelligence bureau; protest response goes to a new unarmed civilian division. Changes start in January.
+<br>[CBS New York](https://www.cbsnews.com/newyork/news/zohran-mamdani-police-nypd-strategic-response-group-disbanded-jessica-tisch/)
 
-### Planes collide while taxiing at Miami airport
-A Copa Airlines 737's wingtip struck the nose of a UPS 767 cargo jet Saturday night, a day after the nationwide ground stop. Two people had minor injuries. The FAA is investigating.
-<br>[CNN](https://www.cnn.com/2026/11/14/us/miami-airport-planes-collide-ups-copa-hnk)
+### US attorney warns Warren over Trump probes
+Aaron Reitz, US attorney for the Southern District of Texas, told Sen. Elizabeth Warren to preserve records tied to planned probes of Trump associates and said such probes could violate civil-rights law. Trump reposted the letter.
+<br>[NBC News](https://nbcnews.com/news/us-news/doj-official-warns-sen-elizabeth-warren-remembering-dc-gym-shooting-vi-rcna609382)
 
 ## Markets
 
@@ -22,9 +22,8 @@ No trading since the last brief.
 
 ## Going viral
 
-- **[John Oliver on Sean Duffy](https://www.reddit.com/r/videos/comments/1xwax4f/sean_duffy_last_week_tonight_with_john_oliver_hbo/)** (YouTube): a Last Week Tonight segment on the transportation secretary, after the ground stop.
-- **[A surprise first car](https://www.reddit.com/r/MadeMeSmile/comments/1xwfoaj/her_grandparents_told_her_to_come_downstairs_for/)** (Reddit): grandparents call a teen downstairs to her first car.
-- **[The curtain dog](https://www.reddit.com/r/WhatsWrongWithYourDog/comments/1xwj687/my_dog_gets_into_this_position_every_single_night/)** (Reddit): a dog that sleeps with a curtain over his head every night.
+- **[Looking away from a cobra](https://www.reddit.com/r/interestingasfuck/comments/1xwwwv6/the_absolute_audacity_to_look_away_from_a_cobra/)** (Reddit): an animal turns its head mid-fight with a cobra.
+- **[How to take a birthday song](https://www.reddit.com/r/MadeMeSmile/comments/1xwvsls/a_masterclass_in_how_to_respond_when_people_are/)** (Reddit): a diner's response when a whole restaurant claps for her birthday.
 
 ---
 <sub>Updated daily at 8:23am ET by a Claude Code scheduled task · [Archive](briefs/) · [Rules](BRIEF.md)</sub>
