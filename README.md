@@ -1,29 +1,31 @@
-# Monday, November 16, 2026
+# Tuesday, November 17, 2026
 
-**Ukraine launches its largest drone attack on Russia of the war.**
+**Ukrainian strike drops part of the bridge to Crimea into the sea.**
 
 ## Top stories
 
-### Ukraine's biggest drone strike on Russia
-Russia says it downed 1,336 Ukrainian drones overnight across 16 regions, above the record of 1,254 set Oct 29. Crimea's Russian-installed governor said the Kerch bridge was hit; road traffic was paused for repairs.
-<br>[NBC News](https://www.nbcnews.com/world/ukraine/ukraine-launches-biggest-drone-attack-russia-war-began-rcna609555)
+### Kerch bridge partly collapses (update)
+A second Ukrainian strike in two days brought down a road section of the bridge linking Russia to occupied Crimea; the rail line beside it was damaged. Zelensky called it an "unprecedented operation." The Kremlin says the bridge will be rebuilt.
+<br>[CNN](https://www.cnn.com/2026/11/17/europe/ukraine-russia-kerch-bridge-intl-hnk)
 
-### Mamdani disbands NYPD protest unit
-Mayor Zohran Mamdani and Commissioner Jessica Tisch are breaking up the Strategic Response Group. Its counterterrorism role moves to the NYPD's intelligence bureau; protest response goes to a new unarmed civilian division. Changes start in January.
-<br>[CBS New York](https://www.cbsnews.com/newyork/news/zohran-mamdani-police-nypd-strategic-response-group-disbanded-jessica-tisch/)
+### Iran strikes US radar in Bahrain again (update)
+Iran fired drones at a US radar site in Bahrain on Tuesday, its third attack there in five days. Bahrain says it intercepted them with no damage. The State Department warned Americans in Bahrain of heightened threats.
+<br>[Washington Post](https://www.washingtonpost.com/business/2026/11/17/iran-trump-israel-bahrain-attacks/d26c1436-e26e-11f1-a99e-b3e3805c6b8b_story.html)
 
-### US attorney warns Warren over Trump probes
-Aaron Reitz, US attorney for the Southern District of Texas, told Sen. Elizabeth Warren to preserve records tied to planned probes of Trump associates and said such probes could violate civil-rights law. Trump reposted the letter.
-<br>[NBC News](https://nbcnews.com/news/us-news/doj-official-warns-sen-elizabeth-warren-remembering-dc-gym-shooting-vi-rcna609382)
+### Hundreds arrested as Trump lands in Manila
+Police detained more than 200 protesters ahead of Trump's arrival for the ASEAN summit, angered by the Iran war's economic toll and a US-led AI hub plan. Trump goes on to the APEC summit in China.
+<br>[CNN](https://www.cnn.com/2026/11/17/politics/live-news/trump-visit-china-philippines)
 
-## Markets
+## Markets · Mon Nov 16
 
-No trading since the last brief.
+S&P 500 **−1.9%** · Nasdaq **−2.5%** · Dow **−1.4%** · 10-yr 5.12% (−3 bp)
+
+Tech led the drop as Nvidia fell 4% before Tuesday's earnings and new US curbs on AI chip exports to Southeast Asia hit chipmakers.
 
 ## Going viral
 
-- **[Looking away from a cobra](https://www.reddit.com/r/interestingasfuck/comments/1xwwwv6/the_absolute_audacity_to_look_away_from_a_cobra/)** (Reddit): an animal turns its head mid-fight with a cobra.
-- **[How to take a birthday song](https://www.reddit.com/r/MadeMeSmile/comments/1xwvsls/a_masterclass_in_how_to_respond_when_people_are/)** (Reddit): a diner's response when a whole restaurant claps for her birthday.
+- **[Mister Rogers gets a giant cardigan](https://www.reddit.com/r/MadeMeSmile/comments/1xy5g3x/someone_crocheted_a_giant_red_cardigan_and_put_it/)** (Reddit): someone crocheted a red sweater for his statue in Pittsburgh.
+- **[Luke Littler's three bullseyes](https://www.reddit.com/r/nextfuckinglevel/comments/1xydqly/luke_littler_is_43_down_in_a_race_to_5_with_his/)** (Reddit): needing 150 to stay alive at the Grand Slam of Darts, he hit three straight bullseyes.
 
 ---
 <sub>Updated daily at 8:23am ET by a Claude Code scheduled task · [Archive](briefs/) · [Rules](BRIEF.md)</sub>
