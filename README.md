@@ -1,31 +1,36 @@
-# Tuesday, November 17, 2026
+# Wednesday, November 18, 2026
 
-**Ukrainian strike drops part of the bridge to Crimea into the sea.**
+**Iran hits Kuwait and Bahrain after a US strike; Xi meets Trump on the tarmac.**
 
 ## Top stories
 
-### Kerch bridge partly collapses (update)
-A second Ukrainian strike in two days brought down a road section of the bridge linking Russia to occupied Crimea; the rail line beside it was damaged. Zelensky called it an "unprecedented operation." The Kremlin says the bridge will be rebuilt.
-<br>[CNN](https://www.cnn.com/2026/11/17/europe/ukraine-russia-kerch-bridge-intl-hnk)
+### Iran widens attacks across the Gulf (update)
+After a US strike Tuesday on a missile site on Iran's Qeshm Island, Iran sent drones at US bases in Kuwait and Bahrain; both say they intercepted the attacks. A UAE-owned ADNOC ship was hit in the Strait of Hormuz, with one crew member missing. Saudi Arabia condemned the attacks.
+<br>[CBS News](https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/)
 
-### Iran strikes US radar in Bahrain again (update)
-Iran fired drones at a US radar site in Bahrain on Tuesday, its third attack there in five days. Bahrain says it intercepted them with no damage. The State Department warned Americans in Bahrain of heightened threats.
-<br>[Washington Post](https://www.washingtonpost.com/business/2026/11/17/iran-trump-israel-bahrain-attacks/d26c1436-e26e-11f1-a99e-b3e3805c6b8b_story.html)
-
-### Hundreds arrested as Trump lands in Manila
-Police detained more than 200 protesters ahead of Trump's arrival for the ASEAN summit, angered by the Iran war's economic toll and a US-led AI hub plan. Trump goes on to the APEC summit in China.
+### Xi greets Trump at Shenzhen airport
+In a rare gesture, Xi met Trump on arrival for the APEC summit. Their three-way meeting with Putin is set for Thursday, with Ukraine and nuclear arms on the agenda.
 <br>[CNN](https://www.cnn.com/2026/11/17/politics/live-news/trump-visit-china-philippines)
 
-## Markets · Mon Nov 16
+### Peltola wins Alaska Senate seat (update)
+The AP called the race for Democrat Mary Peltola, 50.1% of first-choice votes, over Sen. Dan Sullivan. She will be the first Alaska Native senator. Democrats will hold 56 seats.
+<br>[NPR](https://www.npr.org/2026/11/17/g-s1-151567/alaska-senate-results-peltola-sullivan)
 
-S&P 500 **−1.9%** · Nasdaq **−2.5%** · Dow **−1.4%** · 10-yr 5.12% (−3 bp)
+### Nvidia revenue doubles to $115.8B (update)
+Nvidia's quarterly revenue beat forecasts of about $109 billion and it raised its outlook. Interim CEO Colette Kress ruled out Jensen Huang's return. Shares rose after hours.
+<br>[Yahoo Finance](https://finance.yahoo.com/news/nvidia-q3-revenue-rises-103-114702256.html)
 
-Tech led the drop as Nvidia fell 4% before Tuesday's earnings and new US curbs on AI chip exports to Southeast Asia hit chipmakers.
+## Markets · Tue Nov 17
+
+S&P 500 **−1.0%** · Nasdaq **−0.7%** · Dow **−1.6%** · 10-yr 5.10% (−2 bp)
+
+All 11 S&P sectors fell, led by software stocks; the S&P closed at its lowest since July 29.
 
 ## Going viral
 
-- **[Mister Rogers gets a giant cardigan](https://www.reddit.com/r/MadeMeSmile/comments/1xy5g3x/someone_crocheted_a_giant_red_cardigan_and_put_it/)** (Reddit): someone crocheted a red sweater for his statue in Pittsburgh.
-- **[Luke Littler's three bullseyes](https://www.reddit.com/r/nextfuckinglevel/comments/1xydqly/luke_littler_is_43_down_in_a_race_to_5_with_his/)** (Reddit): needing 150 to stay alive at the Grand Slam of Darts, he hit three straight bullseyes.
+- **[Robert Pattinson is the new Bond](https://www.reddit.com/r/movies/comments/1xxrjzr/robert_pattinson_to_play_james_bond_in_denis/)** (Reddit): Amazon MGM named him the seventh 007 on Monday, with Denis Villeneuve directing.
+- **"Farewell to Los Santos"** (TikTok): fan edits pairing GTA V characters with GTA 6's leads before Thursday's release.
+- **GTA 6 or real life?** (Instagram): an in-game clip shared by Rockstar that viewers took for real footage.
 
 ---
 <sub>Updated daily at 8:23am ET by a Claude Code scheduled task · [Archive](briefs/) · [Rules](BRIEF.md)</sub>
