@@ -1,36 +1,34 @@
-# Wednesday, November 18, 2026
+# Thursday, November 19, 2026
 
-**Iran hits Kuwait and Bahrain after a US strike; Xi meets Trump on the tarmac.**
+**Trump, Xi and Putin sign a "peace declaration" that skips Ukraine and Iran.**
 
 ## Top stories
 
-### Iran widens attacks across the Gulf (update)
-After a US strike Tuesday on a missile site on Iran's Qeshm Island, Iran sent drones at US bases in Kuwait and Bahrain; both say they intercepted the attacks. A UAE-owned ADNOC ship was hit in the Strait of Hormuz, with one crew member missing. Saudi Arabia condemned the attacks.
-<br>[CBS News](https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/)
-
-### Xi greets Trump at Shenzhen airport
-In a rare gesture, Xi met Trump on arrival for the APEC summit. Their three-way meeting with Putin is set for Thursday, with Ukraine and nuclear arms on the agenda.
+### Three-way summit ends with a short declaration (update)
+The leaders met for about 90 minutes in Shenzhen. Chinese state media say they committed to stable energy flows among their countries and reaffirmed that a nuclear war should never be fought; the text did not mention Ukraine or Iran. Trump flew home right after.
 <br>[CNN](https://www.cnn.com/2026/11/17/politics/live-news/trump-visit-china-philippines)
 
-### Peltola wins Alaska Senate seat (update)
-The AP called the race for Democrat Mary Peltola, 50.1% of first-choice votes, over Sen. Dan Sullivan. She will be the first Alaska Native senator. Democrats will hold 56 seats.
-<br>[NPR](https://www.npr.org/2026/11/17/g-s1-151567/alaska-senate-results-peltola-sullivan)
+### UN court rules Myanmar committed genocide against Rohingya
+The International Court of Justice found that Myanmar's 2017 operations, which killed about 10,000 Rohingya, were carried out with genocidal intent. It is the court's first such finding against a state. Myanmar must pay reparations.
+<br>[NPR](https://npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya)
 
-### Nvidia revenue doubles to $115.8B (update)
-Nvidia's quarterly revenue beat forecasts of about $109 billion and it raised its outlook. Interim CEO Colette Kress ruled out Jensen Huang's return. Shares rose after hours.
-<br>[Yahoo Finance](https://finance.yahoo.com/news/nvidia-q3-revenue-rises-103-114702256.html)
+### Denmark ratifies Greenland security deal
+Danish lawmakers voted 109–0 for the pact, which lets the US set up defense areas at two Greenland sites and keeps the island under Danish sovereignty. Greenland's parliament approved it earlier this month.
+<br>[CBS News](https://www.cbsnews.com/news/greenland-security-deal-us-denmark-danish-lawmakers/)
 
-## Markets · Tue Nov 17
+### Anthropic prices record IPO
+The AI company sold 980 million shares at $83, above its $70–$78 range, raising $81.3 billion, the largest IPO on record. Trading on Nasdaq under "ANT" starts Thursday.
+<br>[CNBC](https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html)
 
-S&P 500 **−1.0%** · Nasdaq **−0.7%** · Dow **−1.6%** · 10-yr 5.10% (−2 bp)
+## Markets · Wed Nov 18
 
-All 11 S&P sectors fell, led by software stocks; the S&P closed at its lowest since July 29.
+S&P 500 **−0.2%** · Nasdaq **+0.4%** · Dow **−1.1%** · 10-yr 5.07% (−3 bp)
+
+UnitedHealth and other insurers pulled the Dow down over a proposed Medicare Advantage audit rule; Fed minutes showed most officials expect more rate hikes.
 
 ## Going viral
 
-- **[Robert Pattinson is the new Bond](https://www.reddit.com/r/movies/comments/1xxrjzr/robert_pattinson_to_play_james_bond_in_denis/)** (Reddit): Amazon MGM named him the seventh 007 on Monday, with Denis Villeneuve directing.
-- **"Farewell to Los Santos"** (TikTok): fan edits pairing GTA V characters with GTA 6's leads before Thursday's release.
-- **GTA 6 or real life?** (Instagram): an in-game clip shared by Rockstar that viewers took for real footage.
+- **GTA 6 launch glitches** (X): clips of flying trucks and characters sliding through walls spread within hours of Thursday's release.
 
 ---
 <sub>Updated daily at 8:23am ET by a Claude Code scheduled task · [Archive](briefs/) · [Rules](BRIEF.md)</sub>
