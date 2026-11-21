@@ -1,31 +1,38 @@
-# Friday, November 20, 2026
+# Saturday, November 21, 2026
 
-**Russia strikes Kyiv's bridges in revenge; a Russian missile lands in Poland.**
+**Stocks enter a correction as the Nasdaq drops 5.3% in a day.**
 
 ## Top stories
 
-### Russia hits Kyiv bridges; missile falls in Poland
-A massive overnight Russian attack struck three bridges over the Dnipro in Kyiv and cut power, heat and water; at least eight people died across Ukraine. Putin had vowed revenge for the Kerch bridge strikes. A Russian Kh-101 cruise missile crashed in eastern Poland, injuring no one; PM Donald Tusk said it did not appear to be an accident, and Poland will ask NATO for more support.
-<br>[CBC](https://www.cbc.ca/news/world/russian-attacks-on-kyiv-9.7429460)
+### SEC reportedly probes Nvidia's accounting (update)
+Reuters reports that SEC enforcement staff are examining "potential accounting issues" at Nvidia. Shares fell more than 12% Friday to a 52-week low, wiping out roughly $490 billion in value. The SEC declined to comment.
+<br>[Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/nvidia-shares-sink-52-week-203654330.html)
 
-### Senate rejects Iran war powers resolution
-The measure to end the Iran war failed 48–51, the first such vote since the midterms. No new Republicans backed it; Sen. Thom Tillis, who supported an earlier version, voted no.
-<br>[CBS News](https://www.cbsnews.com/news/iran-war-powers-vote-senate-republicans/)
+### Hegseth limits military ties with Canada
+A classified memo issued last week restricts US-Canada defense cooperation, The Washington Post reports. The Pentagon says intelligence sharing, NATO and NORAD are not affected. Ottawa says it has received no notice.
+<br>[Reuters via Yahoo](https://www.yahoo.com/news/politics/articles/us-defense-secretary-hegseth-restricts-232828163.html)
 
-### UK and EU seal post-Brexit reset
-PM Andy Burnham's office said the deal, agreed at a Brussels summit, covers food and farming rules, a youth mobility scheme and linked carbon markets. The EU says it takes effect only if the UK charges EU students home tuition fees.
-<br>[Al Jazeera](https://www.aljazeera.com/news/2026/11/20/eu-and-uk-seal-reset-deal)
+### Man convicted of starting Palisades Fire
+A federal jury found Jonathan Rinderknecht guilty of arson in a retrial after the first jury deadlocked. Prosecutors say a fire he set smoldered and became the January 2025 blaze that killed 12. He faces 5 to 40 years.
+<br>[ABC News](https://abcnews.com/US/man-accused-starting-blaze-palisades-fire-found-guilty/story?id=138333631)
 
-## Markets · Thu Nov 19
+### Judge approves $7.25B Roundup settlement
+A Missouri judge approved Bayer's deal covering current and future non-Hodgkin lymphoma claims, paid over about two decades. Bayer admits no liability; objectors may appeal.
+<br>[KCRA](https://www.kcra.com/article/bayer-roundup-settlement-approved-missouri-judge/74495537)
 
-S&P 500 **−2.0%** · Nasdaq **−2.3%** · Dow **−2.2%** · 10-yr 5.04% (−3 bp)
+### Riemann hypothesis proof claimed, unverified
+Anthropic mathematician Levent Alpöge says he and the company's Claude AI found a proof of the 167-year-old problem, released as Lean code. Outside experts have compiled it, but mathematicians have not yet confirmed it.
+<br>[IBM Think](https://www.ibm.com/think/news/anthropic-claude-riemann-hypothesis-math-proof)
 
-AI stocks kept sliding on fears the boom is over, giving the S&P its sixth straight loss, about 8% below last month's record; Anthropic closed up 17% in its debut.
+## Markets · Fri Nov 20
+
+S&P 500 **−3.7%** · Nasdaq **−5.3%** · Dow **−1.9%** · 10-yr 4.92% (−12 bp)
+
+The S&P and Dow fell into correction, more than 10% below their highs, on Nvidia's drop; the S&P lost 8.6% for the week, and bond yields fell as stocks sold off.
 
 ## Going viral
 
-- **GTA 6's anti-furry PSAs** (TikTok, X): clips of in-game ads telling Leonida residents to report furries, flagging words like "Rawr xD."
-- **"Safe to go out tonight"** (TikTok): women joking that GTA 6 launch night kept all the men at home.
+- **Fiona the hippo dies** (Instagram, X): fans mourn the Cincinnati Zoo star, 9, who died after swallowing a visitor's hat.
 
 ---
 <sub>Updated daily at 8:23am ET by a Claude Code scheduled task · [Archive](briefs/) · [Rules](BRIEF.md)</sub>
