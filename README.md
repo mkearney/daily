@@ -1,38 +1,36 @@
-# Saturday, November 21, 2026
+# Sunday, November 22, 2026
 
-**Stocks enter a correction as the Nasdaq drops 5.3% in a day.**
+**FBI's national crime database reportedly hacked.**
 
 ## Top stories
 
-### SEC reportedly probes Nvidia's accounting (update)
-Reuters reports that SEC enforcement staff are examining "potential accounting issues" at Nvidia. Shares fell more than 12% Friday to a 52-week low, wiping out roughly $490 billion in value. The SEC declined to comment.
-<br>[Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/nvidia-shares-sink-52-week-203654330.html)
+### FBI crime database reportedly breached
+CNN reports hackers got into the National Crime Information Center, which police nationwide use for warrants and background checks; the scope is unclear. Trump called it "not good" but said it could expose material he wants to see. The FBI has not confirmed it.
+<br>[ABC News](https://abcnews.com/US/fbis-national-crime-database-targeted-hack-trump/story?id=138347810)
 
-### Hegseth limits military ties with Canada
-A classified memo issued last week restricts US-Canada defense cooperation, The Washington Post reports. The Pentagon says intelligence sharing, NATO and NORAD are not affected. Ottawa says it has received no notice.
-<br>[Reuters via Yahoo](https://www.yahoo.com/news/politics/articles/us-defense-secretary-hegseth-restricts-232828163.html)
+### Trump orders contractors to clear congressional replies
+An executive order tells federal contractors to consult the White House before answering Congress and to withhold material it deems privileged, or risk losing contracts. Democrats, who take the House and Senate in January, called it unlawful.
+<br>[PBS NewsHour](https://www.pbs.org/newshour/politics/trump-orders-federal-contractors-to-check-with-white-house-before-responding-to-congress)
 
-### Man convicted of starting Palisades Fire
-A federal jury found Jonathan Rinderknecht guilty of arson in a retrial after the first jury deadlocked. Prosecutors say a fire he set smoldered and became the January 2025 blaze that killed 12. He faces 5 to 40 years.
-<br>[ABC News](https://abcnews.com/US/man-accused-starting-blaze-palisades-fire-found-guilty/story?id=138333631)
+### "El Chapo Isidro" captured in Mexico
+Mexican special forces arrested Fausto Isidro Meza-Flores, on the FBI's Ten Most Wanted list, in a raid in Sinaloa. The US had offered up to $5 million for him.
+<br>[ABC News](https://abcnews.com/International/mexican-cartel-leader-fbis-10-wanted-fugitive-list/story?id=138346100)
 
-### Judge approves $7.25B Roundup settlement
-A Missouri judge approved Bayer's deal covering current and future non-Hodgkin lymphoma claims, paid over about two decades. Bayer admits no liability; objectors may appeal.
-<br>[KCRA](https://www.kcra.com/article/bayer-roundup-settlement-approved-missouri-judge/74495537)
+### Drone-hit Russian ship burns off Finland
+The sanctioned cargo ship Sparta II, owned by a Russian defense logistics firm, was struck by drones Saturday and drifted into Finnish waters, still on fire. Finland's military says Ukraine likely did it. All 16 crew were evacuated.
+<br>[Reuters via U.S. News](https://www.usnews.com/news/world/articles/2026-11-22/russian-cargo-ship-still-on-fire-off-finland-after-attack)
 
-### Riemann hypothesis proof claimed, unverified
-Anthropic mathematician Levent Alpöge says he and the company's Claude AI found a proof of the 167-year-old problem, released as Lean code. Outside experts have compiled it, but mathematicians have not yet confirmed it.
-<br>[IBM Think](https://www.ibm.com/think/news/anthropic-claude-riemann-hypothesis-math-proof)
+### COP31 draft drops fossil fuel language
+Turkey's draft deal at the overtime UN climate talks never mentions fossil fuels or coal. About 130 countries want the 2023 pledge to transition away from them restated.
+<br>[Boston Globe](https://www.bostonglobe.com/2026/11/22/world/turkey-un-climate-fossil-fuels-global-warming/)
 
-## Markets · Fri Nov 20
+## Markets
 
-S&P 500 **−3.7%** · Nasdaq **−5.3%** · Dow **−1.9%** · 10-yr 4.92% (−12 bp)
-
-The S&P and Dow fell into correction, more than 10% below their highs, on Nvidia's drop; the S&P lost 8.6% for the week, and bond yields fell as stocks sold off.
+No trading since the last brief.
 
 ## Going viral
 
-- **Fiona the hippo dies** (Instagram, X): fans mourn the Cincinnati Zoo star, 9, who died after swallowing a visitor's hat.
+No new items today.
 
 ---
 <sub>Updated daily at 8:23am ET by a Claude Code scheduled task · [Archive](briefs/) · [Rules](BRIEF.md)</sub>
