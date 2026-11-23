@@ -1,28 +1,24 @@
-# Sunday, November 22, 2026
+# Monday, November 23, 2026
 
-**FBI's national crime database reportedly hacked.**
+**Ukraine says it sank a Russian warship off Libya, far from the front.**
 
 ## Top stories
 
-### FBI crime database reportedly breached
-CNN reports hackers got into the National Crime Information Center, which police nationwide use for warrants and background checks; the scope is unclear. Trump called it "not good" but said it could expose material he wants to see. The FBI has not confirmed it.
-<br>[ABC News](https://abcnews.com/US/fbis-national-crime-database-targeted-hack-trump/story?id=138347810)
+### Ukraine strikes Russian ships off Libya
+Zelensky says seven Ukrainian naval drones sank the Russian corvette Merkury and hit a cargo ship near Benghazi on Sunday. Libya's eastern authorities say an explosion hit a Russian ship in port and that Libya is not a party to the war.
+<br>[Washington Post](https://www.washingtonpost.com/world/2026/11/23/ukraine-says-it-sank-russian-warship-off-coast-libya-far-front-line/)
 
-### Trump orders contractors to clear congressional replies
-An executive order tells federal contractors to consult the White House before answering Congress and to withhold material it deems privileged, or risk losing contracts. Democrats, who take the House and Senate in January, called it unlawful.
-<br>[PBS NewsHour](https://www.pbs.org/newshour/politics/trump-orders-federal-contractors-to-check-with-white-house-before-responding-to-congress)
+### Democrats reach 258 House seats (update)
+Democrat Chuck Hubbard beat Rep. Virginia Foxx by 330 votes after a recount in North Carolina, giving Democrats their largest House majority since 1992. Four races are still uncalled.
+<br>[NBC News](https://www.nbcnews.com/politics/congress/house-democrats-win-largest-house-majority-hubbard-north-carolina-rcna610708)
 
-### "El Chapo Isidro" captured in Mexico
-Mexican special forces arrested Fausto Isidro Meza-Flores, on the FBI's Ten Most Wanted list, in a raid in Sinaloa. The US had offered up to $5 million for him.
-<br>[ABC News](https://abcnews.com/International/mexican-cartel-leader-fbis-10-wanted-fugitive-list/story?id=138346100)
+### COP31 ends without a climate deal (update)
+The Antalya talks closed without consensus on the main text after the EU, Panama and the Marshall Islands objected to a draft that left out fossil fuels. Some smaller decisions passed. COP32 goes to Addis Ababa in 2027.
+<br>[CBS News](https://www.cbsnews.com/news/un-cop31-climate-conference-ends-no-agreement-fossil-fuel-debate-standstill/)
 
-### Drone-hit Russian ship burns off Finland
-The sanctioned cargo ship Sparta II, owned by a Russian defense logistics firm, was struck by drones Saturday and drifted into Finnish waters, still on fire. Finland's military says Ukraine likely did it. All 16 crew were evacuated.
-<br>[Reuters via U.S. News](https://www.usnews.com/news/world/articles/2026-11-22/russian-cargo-ship-still-on-fire-off-finland-after-attack)
-
-### COP31 draft drops fossil fuel language
-Turkey's draft deal at the overtime UN climate talks never mentions fossil fuels or coal. About 130 countries want the 2023 pledge to transition away from them restated.
-<br>[Boston Globe](https://www.bostonglobe.com/2026/11/22/world/turkey-un-climate-fossil-fuels-global-warming/)
+### Don Toliver concert evacuated in Manchester
+More than 12,000 people left Co-op Live after an unknown substance, first thought to be tear gas, was released near the end of the show. About 50 people were checked for eye and breathing problems; one went to hospital. Police declared a major incident.
+<br>[CNN](https://www.cnn.com/2026/11/23/europe/manchester-coop-live-tear-gas-don-toliver-hnk-intl)
 
 ## Markets
 
