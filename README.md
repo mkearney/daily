@@ -1,28 +1,26 @@
-# Monday, November 23, 2026
+# Tuesday, November 24, 2026
 
-**Ukraine says it sank a Russian warship off Libya, far from the front.**
+**Nvidia brings back Jensen Huang, and stocks post their best day since April 2025.**
 
 ## Top stories
 
-### Ukraine strikes Russian ships off Libya
-Zelensky says seven Ukrainian naval drones sank the Russian corvette Merkury and hit a cargo ship near Benghazi on Sunday. Libya's eastern authorities say an explosion hit a Russian ship in port and that Libya is not a party to the war.
-<br>[Washington Post](https://www.washingtonpost.com/world/2026/11/23/ukraine-says-it-sank-russian-warship-off-coast-libya-far-front-line/)
+### Nvidia reinstates Huang as CEO (update)
+The board voted unanimously to return Jensen Huang as CEO and director, reversing its Nov 17 position. Trump said he personally spoke with the board; it said government input left it confident there was no security risk. An independent committee will continue its investigation.
+<br>[NPR](https://www.npr.org/2026/11/23/nx-s1-6050910/nvidias-jensen-huang-trump)
 
-### Democrats reach 258 House seats (update)
-Democrat Chuck Hubbard beat Rep. Virginia Foxx by 330 votes after a recount in North Carolina, giving Democrats their largest House majority since 1992. Four races are still uncalled.
-<br>[NBC News](https://www.nbcnews.com/politics/congress/house-democrats-win-largest-house-majority-hubbard-north-carolina-rcna610708)
+### Virginia and Oregon sue SpaceX over Grok images
+The states accuse the Musk-owned company of violating consumer protection laws by letting Grok turn photos into fake nude images, including of children. They are the first states to sue.
+<br>[NBC News](https://www.nbcnews.com/tech/tech-news/virginia-oregon-sue-musks-spacex-grok-ais-creation-child-sexual-abuse-rcna610923)
 
-### COP31 ends without a climate deal (update)
-The Antalya talks closed without consensus on the main text after the EU, Panama and the Marshall Islands objected to a draft that left out fossil fuels. Some smaller decisions passed. COP32 goes to Addis Ababa in 2027.
-<br>[CBS News](https://www.cbsnews.com/news/un-cop31-climate-conference-ends-no-agreement-fossil-fuel-debate-standstill/)
+### Court clears Army to blow up toxic explosives in Iowa
+A federal appeals court rejected environmental groups' bid to stop the Army from detonating about five tons of unstable lead azide at its Middletown ammunition plant. The Army says the blasts will happen Wednesday.
+<br>[CBS News](https://www.cbsnews.com/news/army-iowa-explosives-trump-appeals-court/)
 
-### Don Toliver concert evacuated in Manchester
-More than 12,000 people left Co-op Live after an unknown substance, first thought to be tear gas, was released near the end of the show. About 50 people were checked for eye and breathing problems; one went to hospital. Police declared a major incident.
-<br>[CNN](https://www.cnn.com/2026/11/23/europe/manchester-coop-live-tear-gas-don-toliver-hnk-intl)
+## Markets · Mon Nov 23
 
-## Markets
+S&P 500 **+4.7%** · Nasdaq **+6.5%** · Dow **+3.0%** · 10-yr 4.92% (0 bp)
 
-No trading since the last brief.
+Nvidia jumped about 30% on Huang's return, pulling the S&P out of correction in its best day since April 2025.
 
 ## Going viral
 
