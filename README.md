@@ -1,26 +1,26 @@
-# Tuesday, November 24, 2026
+# Wednesday, November 25, 2026
 
-**Nvidia brings back Jensen Huang, and stocks post their best day since April 2025.**
+**Kilmar Ábrego García leaves the US for Spain.**
 
 ## Top stories
 
-### Nvidia reinstates Huang as CEO (update)
-The board voted unanimously to return Jensen Huang as CEO and director, reversing its Nov 17 position. Trump said he personally spoke with the board; it said government input left it confident there was no security risk. An independent committee will continue its investigation.
-<br>[NPR](https://www.npr.org/2026/11/23/nx-s1-6050910/nvidias-jensen-huang-trump)
+### Ábrego García flies to Spain
+The Salvadoran man wrongly deported to a Salvadoran prison last year left the US for Madrid. Homeland Security says he self-deported under a removal order and won't be let back in. His lawyers say he left "a free man" and is waiting out this administration.
+<br>[NPR](https://www.npr.org/2026/11/25/nx-s1-6053203/abrego-garcia-leaves-us)
 
-### Virginia and Oregon sue SpaceX over Grok images
-The states accuse the Musk-owned company of violating consumer protection laws by letting Grok turn photos into fake nude images, including of children. They are the first states to sue.
-<br>[NBC News](https://www.nbcnews.com/tech/tech-news/virginia-oregon-sue-musks-spacex-grok-ais-creation-child-sexual-abuse-rcna610923)
+### Trump's Nvidia stake gained after Huang's return (update)
+The Financial Times estimates Trump's Nvidia holdings rose by as much as $15 million after the board reinstated Jensen Huang, a move Trump says he pushed. His last disclosure listed 32,000 to 370,000 shares as of Sept. 30. The White House says outside managers handle his investments.
+<br>[Inc.](https://www.inc.com/chris-morris/trump-took-credit-jensen-huang-return-nvidia-stake-may-have-gained-15-million-dollars/91442110)
 
-### Court clears Army to blow up toxic explosives in Iowa
-A federal appeals court rejected environmental groups' bid to stop the Army from detonating about five tons of unstable lead azide at its Middletown ammunition plant. The Army says the blasts will happen Wednesday.
-<br>[CBS News](https://www.cbsnews.com/news/army-iowa-explosives-trump-appeals-court/)
+### Six killed in plane crash off Mississippi
+A Cessna 210 flying from New Orleans to Fort Myers crashed into the Gulf near Horn Island on Tuesday. Four adults and two boys, ages 8 and 10, died. The NTSB is leading the investigation.
+<br>[CBS News](https://www.cbsnews.com/news/small-plane-crash-off-mississippi-6-dead-2-children/)
 
-## Markets · Mon Nov 23
+## Markets · Tue Nov 24
 
-S&P 500 **+4.7%** · Nasdaq **+6.5%** · Dow **+3.0%** · 10-yr 4.92% (0 bp)
+S&P 500 **−0.5%** · Nasdaq **−1.5%** · Dow **+0.9%** · 10-yr 4.91% (−1 bp)
 
-Nvidia jumped about 30% on Huang's return, pulling the S&P out of correction in its best day since April 2025.
+Chip stocks gave back part of Monday's rally, with Nvidia down about 6%; the Dow closed above 50,000.
 
 ## Going viral
 
