@@ -1,26 +1,28 @@
-# Wednesday, November 25, 2026
+# Thursday, November 26, 2026
 
-**Kilmar Ábrego García leaves the US for Spain.**
+**A nor'easter pushes back the 100th Macy's Thanksgiving Day Parade.**
 
 ## Top stories
 
-### Ábrego García flies to Spain
-The Salvadoran man wrongly deported to a Salvadoran prison last year left the US for Madrid. Homeland Security says he self-deported under a removal order and won't be let back in. His lawyers say he left "a free man" and is waiting out this administration.
-<br>[NPR](https://www.npr.org/2026/11/25/nx-s1-6053203/abrego-garcia-leaves-us)
+### Storm postpones Macy's parade to Saturday
+Macy's and NBC moved the parade to Saturday at 8:30 a.m. ET, its first postponement; it was suspended during World War II. Forecast gusts up to 65 mph would ground the balloons. New York City, New Jersey, Long Island and Westchester declared states of emergency.
+<br>[NBC News](https://www.nbcnews.com/news/us-news/macys-thanksgiving-day-parade-weather-delay-rcna611355)
 
-### Trump's Nvidia stake gained after Huang's return (update)
-The Financial Times estimates Trump's Nvidia holdings rose by as much as $15 million after the board reinstated Jensen Huang, a move Trump says he pushed. His last disclosure listed 32,000 to 370,000 shares as of Sept. 30. The White House says outside managers handle his investments.
-<br>[Inc.](https://www.inc.com/chris-morris/trump-took-credit-jensen-huang-return-nvidia-stake-may-have-gained-15-million-dollars/91442110)
+### Trump proposes tariffs on China, EU and 12 others
+The plan would largely restore duties struck down by the Supreme Court in February, using a different trade law: 20% on China and Vietnam, 15% on the EU. The earliest start is January, after public hearings. China and Japan protested.
+<br>[CNN](https://www.cnn.com/2026/11/25/economy/trump-new-tariffs)
 
-### Six killed in plane crash off Mississippi
-A Cessna 210 flying from New Orleans to Fort Myers crashed into the Gulf near Horn Island on Tuesday. Four adults and two boys, ages 8 and 10, died. The NTSB is leading the investigation.
-<br>[CBS News](https://www.cbsnews.com/news/small-plane-crash-off-mississippi-6-dead-2-children/)
+### Judge blocks FCC review of ABC licenses
+US District Judge Loren AliKhan ruled the FCC's early review of ABC's station licenses was likely illegal retaliation for protected speech, saying Chairman Brendan Carr took Trump's rhetoric "as his marching orders."
+<br>[The Hill](https://thehill.com/regulation/court-battles/6244298-judge-blocks-fcc-from-early-renewal-of-abc-licenses/)
 
-## Markets · Tue Nov 24
+### Fuel tanker fire kills 31 near Cairo
+A crash involving a fuel truck set off a fire on the Ring Road in Giza on Wednesday, Egypt's health ministry says.
+<br>[CBS News](https://www.cbsnews.com/news/egypt-fuel-tanker-explosion-deaths-giza-cairo/)
 
-S&P 500 **−0.5%** · Nasdaq **−1.5%** · Dow **+0.9%** · 10-yr 4.91% (−1 bp)
+## Markets · Wed Nov 25
 
-Chip stocks gave back part of Monday's rally, with Nvidia down about 6%; the Dow closed above 50,000.
+S&P 500 **−0.3%** · Nasdaq **−0.6%** · Dow **+0.3%** · 10-yr 4.85% (−6 bp)
 
 ## Going viral
 
