@@ -1,36 +1,34 @@
-# Friday, November 27, 2026
+# Saturday, November 28, 2026
 
-**Thanksgiving storm cuts power to nearly a million customers.**
+**Stocks cap their best week since April 2025; an Israeli strike kills two Doctors Without Borders staff in Gaza.**
 
 ## Top stories
 
-### Storm knocks out power across the East
-Wind, rain and flooding left more than 900,000 homes and businesses without power at Thursday's peak, mostly in Pennsylvania, New Jersey, Maryland, Virginia and Missouri. Hundreds of thousands were still dark Friday morning as the storm weakened.
-<br>[NBC News](https://www.nbcnews.com/weather/winter-weather/live-blog/live-updates-thanksgiving-travel-weather-storms-forecast-rcna611376)
+### Israeli strike kills two MSF workers in Gaza
+Doctors Without Borders says a strike on its clinic in Gaza City Friday killed two watchmen, bringing its staff deaths in the war to 17. Israel's military says the men were Hamas members guarding the site. The WHO chief criticized the strike.
+<br>[RTÉ](https://www.rte.ie/news/middle-east/2026/1128/1600979-israeli-gaza/)
 
-### Hackers breach Air Force cloud platform
-Intruders got into the Air Force's Cloud One computing platform, Reuters reports, disrupting it and pausing app migrations. Cyber Command is assessing the damage. It is unclear who did it or whether data was stolen.
-<br>[Bloomberg](https://www.bloomberg.com/news/articles/2026-11-27/hackers-breached-us-air-force-s-cloud-platform)
+### Blast near Afghan school kills students
+At least seven students were killed and about 99 hurt when explosives stored by mining companies in a house next to a middle school in Kunar province blew up Saturday, officials say. Some reports put the toll at 10.
+<br>[AP via Yahoo](https://www.yahoo.com/news/world/articles/seven-students-killed-nearly-100-101441744.html)
 
-### Trump demands probe of GDP revision
-After the Commerce Department raised third-quarter growth from 3.4% to 4.3%, Trump called the pre-election figure "fake" and demanded an investigation, without evidence. The agency says such revisions are routine and scheduled.
-<br>[Al Jazeera](https://www.aljazeera.com/economy/2026/11/26/trump-calls-gdp-data-released-before-midterms-fake-demands-investigation)
+### Banned Nvidia chips found in Shanghai (update)
+Bloomberg traced a Blackwell server rack, which can't legally go to China without a US license, to a Shanghai data center linked to Alice Huang, through loan filings. It could not establish how the hardware got there. Jensen Huang had said the systems were too big to smuggle.
+<br>[The Next Web](https://thenextweb.com/news/nvidia-blackwell-chips-alice-huang-shanghai-data-centre-bloomberg)
 
-### Army detonates Iowa explosives (update)
-The Army blew up about five tons of unstable lead azide at its Middletown plant Wednesday. The EPA's real-time monitors found no airborne lead; surface sampling results are pending.
-<br>[NPR](https://www.npr.org/2026/11/25/nx-s1-6052338/army-detonation-lead-explosives-iowa)
+### Macy's parade steps off today (update)
+The storm-delayed 100th parade starts at 8:30 a.m. ET with the same lineup plus LL Cool J and Gloria Gaynor.
+<br>[AP via CNN](https://www.cnn.com/2026/11/25/us/macys-thanksgiving-day-parade-postponed)
 
-### New Zealand election ends in deadlock
-The final count gave neither the governing right bloc nor the left a majority, leaving the centrist Opportunity Party to decide who governs.
-<br>[AP via Yahoo](https://www.yahoo.com/news/world/articles/final-count-zealand-election-gives-010433476.html)
+## Markets · Fri Nov 27
 
-## Markets
+S&P 500 **+1.6%** · Nasdaq **+2.3%** · Dow **+1.2%** · 10-yr 4.94% (+9 bp)
 
-No trading since the last brief.
+Chip and AI stocks led the shortened session; the S&P rose 5.6% for the week, its best since April 2025.
 
 ## Going viral
 
-- **St. Louis airport divorce ad** (TikTok): a video of a law firm's divorce ad greeting arriving travelers passed 375,000 views.
+No new items today.
 
 ---
 <sub>Updated daily at 8:23am ET by a Claude Code scheduled task · [Archive](briefs/) · [Rules](BRIEF.md)</sub>
